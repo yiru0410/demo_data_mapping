@@ -1,0 +1,19 @@
+{
+    "date": "2022-06-14T00:00:00-07:00",
+    "id": "30007897",
+    "status": "active",
+    "value": {
+        "amount": "1873598.27",
+        "currency": "USD"
+    },
+    "suppliers": {
+        "name": "Faison Construction Inc",
+        "id": "pdx-vendor-104138"
+    },
+    "contractPeriod": {
+        "startDate": "2021-09-15T00:00:00-07:00",
+        "endDate": "2025-06-30T00:00:00-07:00"
+    },
+    "title": "Forest Park Entry Project",
+    "description": "Agreement for  construction services."
+}
